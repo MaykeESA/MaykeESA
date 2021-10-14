@@ -1,4 +1,4 @@
-## Salve salve, eu sou o Mayke Erick e estou cursando Ciência da Computação!
+## Salve salve, me chamo Mayke Erick e estou cursando Ciência da Computação!
 
 <div align="center">
   <a href="https://github.com/maykeesa">
