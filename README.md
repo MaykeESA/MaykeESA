@@ -26,5 +26,5 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Estagiário Back-end** \
 Agosto de 2022 - Atualmente \
 [**Procuradoria Geral do Município de Aracaju**](https://www.aracaju.se.gov.br/procuradoria/) • Estágio \
-Linguagens & Tecnologias: `Java`, `Python`, `PostgresSQL`\
+Linguagens & Tecnologias: `Java`, `Python`, `PostgresSQL`, `MySQL`\
 <br/>
