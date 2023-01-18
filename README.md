@@ -2,9 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/maykeesa">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=maykeesa&theme=dark&mode=weekly"/>
-  <img height="150em" src="https://api.githubtrends.io/user/svg/MaykeESA/langs?time_range=one_year&compact=True&theme=dark"/>
-  <img height="150em" src="https://api.githubtrends.io/user/svg/MaykeESA/repos?time_range=one_year&group=other&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=maykeesa&theme=dark&mode=weekly"/>
+  <img height="180em" src="https://api.githubtrends.io/user/svg/MaykeESA/langs?time_range=one_year&compact=True&theme=dark"/>
 </div>
   
   ##
