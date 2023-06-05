@@ -24,7 +24,15 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="PGM" src="https://cdn.discordapp.com/attachments/817401092752932916/1017400940896194560/avatar_960.jpg"/>](https://www.aracaju.se.gov.br/procuradoria/)
 
 **Estagiário Back-end** \
-Agosto de 2022 - Atualmente \
+Agosto de 2022 - Junho de 2023 \
 [**Procuradoria Geral do Município de Aracaju**](https://www.aracaju.se.gov.br/procuradoria/) • Estágio de desenvolvedor \
+Linguagens & Tecnologias: `Java`, `Python`, `PostgresSQL`, `MySQL`, `Spring Boot`, `Spring Data`\
+<br/>
+  
+ [<img align="left" height="94px" width="94px" alt="Sergipe Tec" src="https://cdn.discordapp.com/attachments/817401092752932916/1115257845689098240/image.png"/>](https://sergipetec.org.br/)
+
+**Desenvolvedor Back-end Junior** \
+Junho de 2023 - Atualmente \
+[**Sergipe Parque Tecnológico**](https://sergipetec.org.br/) • Desenvolvedor Back-end Junior \
 Linguagens & Tecnologias: `Java`, `Python`, `PostgresSQL`, `MySQL`, `Spring Boot`, `Spring Data`\
 <br/>
