@@ -34,5 +34,5 @@ Linguagens & Tecnologias: `Java`, `Python`, `PostgresSQL`, `MySQL`, `Spring Boot
 **Desenvolvedor Back-end Junior** \
 Junho de 2023 - Atualmente \
 [**Sergipe Parque Tecnológico**](https://sergipetec.org.br/) • Desenvolvedor Back-end Junior \
-Linguagens & Tecnologias: `Java`, `Python`, `PostgresSQL`, `MySQL`, `Spring Boot`, `Spring Data`\
+Linguagens & Tecnologias: `Java`, `Python`, `Groovy`, `PostgresSQL`, `MySQL`, `Spring Boot`, `Grails`\
 <br/>
