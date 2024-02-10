@@ -26,7 +26,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Estagiário Back-end** \
 Agosto de 2022 - Junho de 2023 \
 [**Procuradoria Geral do Município de Aracaju**](https://www.aracaju.se.gov.br/procuradoria/) • Estágio de desenvolvedor \
-Linguagens & Tecnologias: `Java`, `Python`, `PostgresSQL`, `MySQL`, `Spring Boot`, `Spring Data`\
+Linguagens & Tecnologias: `Java`, `Python`, `PostgresSQL`, `MySQL`, `Spring Boot`\
 <br/>
   
  [<img align="left" height="94px" width="94px" alt="Sergipe Tec" src="https://cdn.discordapp.com/attachments/817401092752932916/1115257845689098240/image.png"/>](https://sergipetec.org.br/)
