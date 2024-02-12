@@ -22,7 +22,7 @@
 ## Tecnologias e Ferramentas:
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <img align="right" height="270" width="480" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border-radius:50%;">
+  <img align="right" height="290" width="490" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border-radius:50%;">
   <div>
       <p>- Linguagens:</p>
       <div>
