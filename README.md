@@ -24,7 +24,7 @@
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
   <img align="right" height="290" width="490" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border-radius:50%;">
   <div>
-      <p>- Linguagens:</p>
+      <p># Linguagens:</p>
       <div>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -34,7 +34,7 @@
   </div>
 
   <div>
-      <p>- Frameworks:</p>
+      <p># Frameworks:</p>
       <div>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grails/grails-original.svg"/>
@@ -42,7 +42,7 @@
   </div>
 
   <div>
-      <p>- Banco de dados:</p>
+      <p># Banco de dados:</p>
       <div>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
@@ -50,7 +50,7 @@
   </div>
 
   <div>
-      <p>- Ferramentas:</p>
+      <p># Ferramentas:</p>
       <div>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
