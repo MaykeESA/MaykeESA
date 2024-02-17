@@ -1,18 +1,6 @@
-## Redes sociais:
-  <div> 
-    <a href="https://www.instagram.com/maykeesa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "https://twitter.com/Mayke7ESA"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-   	<a href="https://www.twitch.tv/maykeesa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/mayke-erick-14a36420a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://steamcommunity.com/id/MaykeESA/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-  </div>
-
-<br>
-
-## Tecnologias e Ferramentas:
-
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <img align="right" height="390em" src="https://cdn.discordapp.com/attachments/817401092752932916/1208398712657674280/ezgif.com-crop.gif?ex=65e32400&is=65d0af00&hm=fc7660cec4aa17106f21133e9a11f83eda319a58c9c770299627f37f09761071&" style="border-radius:50%;">
+  <img align="right" height="390em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Duke_%28Java_mascot%29_waving.svg/226px-Duke_%28Java_mascot%29_waving.svg.png">
+  <div align="center">
   <div>
       <h3>Linguagens:</h3>
       <div>
@@ -51,4 +39,14 @@
       </div>
   </div>
 </div>
+
+<br>
+<br>
+
+## Contato:
+  [![Insta](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maykeesa/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mayke7ESA)
+  [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/maykeesa)
+  [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayke-erick-14a36420a/)
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/MaykeESA/)
 
