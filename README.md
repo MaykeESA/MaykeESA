@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <img align="right" height="390em" src="https://cdn.discordapp.com/attachments/817401092752932916/1208410191293448243/Duke_Java_mascot_waving.svg.png?ex=65e32eb0&is=65d0b9b0&hm=8ce43283bb3bfa8f2679bed100556c756b3e7954d8dc09829dbfb16e9ed93c4e&">
+  <img align="right" height="390em" src="https://cdn.discordapp.com/attachments/817401092752932916/1208411248811839498/Sem_Titulo-2.png?ex=65e32fac&is=65d0baac&hm=645cc964b2d052fb24528c535d1ead0d690680fb1e8aa623e7d3992470ec44a1&">
   <div align="left">
   <div>
       <h3>Linguagens:</h3>
