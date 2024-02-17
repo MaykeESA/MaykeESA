@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <img align="right" height="390em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Duke_%28Java_mascot%29_waving.svg/226px-Duke_%28Java_mascot%29_waving.svg.png">
-  <div align="center">
+  <img align="right" height="390em" src="https://cdn.discordapp.com/attachments/817401092752932916/1208410191293448243/Duke_Java_mascot_waving.svg.png?ex=65e32eb0&is=65d0b9b0&hm=8ce43283bb3bfa8f2679bed100556c756b3e7954d8dc09829dbfb16e9ed93c4e&">
+  <div align="left">
   <div>
       <h3>Linguagens:</h3>
       <div>
