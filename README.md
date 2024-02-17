@@ -22,9 +22,9 @@
 ## Tecnologias e Ferramentas:
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <img align="right" height="290" width="490" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="border-radius:50%;">
+  <img align="right" height="390em" src="https://cdn.discordapp.com/attachments/817401092752932916/1208398712657674280/ezgif.com-crop.gif?ex=65e32400&is=65d0af00&hm=fc7660cec4aa17106f21133e9a11f83eda319a58c9c770299627f37f09761071&" style="border-radius:50%;">
   <div>
-      <p># Linguagens:</p>
+      <h3>Linguagens:</h3>
       <div>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -34,7 +34,7 @@
   </div>
 
   <div>
-      <p># Frameworks:</p>
+      <h3>Frameworks:</h3>
       <div>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grails/grails-original.svg"/>
@@ -42,7 +42,7 @@
   </div>
 
   <div>
-      <p># Banco de dados:</p>
+      <h3>Banco de dados:</h3>
       <div>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
@@ -50,7 +50,7 @@
   </div>
 
   <div>
-      <p># Ferramentas:</p>
+      <h3>Ferramentas:</h3>
       <div>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg"/>
           <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
