@@ -1,13 +1,3 @@
-## Bem-vindo ao meu perfil 🦝
-
-<div align="center">
-  <a href="https://github.com/maykeesa">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=maykeesa&theme=dark&mode=weekly"/>
-  <img height="180em" src="https://api.githubtrends.io/user/svg/MaykeESA/langs?time_range=one_year&compact=True&theme=dark"/>
-</div>
-
-<br>
-
 ## Redes sociais:
   <div> 
     <a href="https://www.instagram.com/maykeesa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
