@@ -1,7 +1,7 @@
 ## Tecnologias e ferramentas
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <img align="right" height="390em" src="https://cdn.discordapp.com/attachments/817401092752932916/1208411248811839498/Sem_Titulo-2.png?ex=65e32fac&is=65d0baac&hm=645cc964b2d052fb24528c535d1ead0d690680fb1e8aa623e7d3992470ec44a1&">
+  <img align="right" height="390em" src="https://cdn.discordapp.com/attachments/817401092752932916/1208411248811839498/Sem_Titulo-2.png?ex=65fedf2c&is=65ec6a2c&hm=f8dc1f73b2e524667d38b9a581131e14d1f69a1b71943b4a168516fcefb61d3e&">
   <div align="left">
     <div>
         <h3>Linguagens:</h3>
