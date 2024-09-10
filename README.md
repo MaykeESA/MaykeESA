@@ -1,15 +1,15 @@
 ## Tecnologias e ferramentas
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <img align="right" height="390em" src="https://cdn.discordapp.com/attachments/817401092752932916/1208411248811839498/Sem_Titulo-2.png?ex=6631a0ec&is=66304f6c&hm=fbf1de2f008786b9ac11601bad1561dd4aaaf4a0b10be87bb479c41d2370075d&">
+  <img align="right" height="390em" src="https://drive.google.com/uc?export=view&id=1OGO2Q6aksWbRWUA25bwgbahqJJJXo1mz">
   <div align="left">
     <div>
         <h3>Linguagens:</h3>
         <div>
             <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
             <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"/>
-            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+            <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
         </div>
     </div>
     <div>
