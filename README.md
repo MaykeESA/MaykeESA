@@ -1,7 +1,7 @@
 ## Tecnologias e ferramentas
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <img align="right" height="390em" src="https://drive.google.com/uc?export=view&id=1OGO2Q6aksWbRWUA25bwgbahqJJJXo1mz">
+  <img align="right" height="390em" src="https://drive.google.com/uc?export=view&id=1zRO1jNbxJF08pbEwD8E7VrrgTV1aXK9B">
   <div align="left">
     <div>
         <h3>Linguagens:</h3>
